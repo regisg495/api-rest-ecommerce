@@ -9,7 +9,7 @@ Depois, faça o dump do banco de dados com os arquivos data.sql e insert.sql, qu
 
 2 - Endpoints
 
-Para melhor visualização de todos os endpoints do projeto, acesse http://localhost:8080/swagger-ui.html.
+Para melhor visualização de todos os endpoints do projeto, execute o projeto e acesse http://localhost:8080/swagger-ui.html.
 
 3 - Permissões
 
